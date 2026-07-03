@@ -1,10 +1,6 @@
 @import url(fontawesome-all.min.css);
 @import url("https://fonts.googleapis.com/css?family=Roboto:400,700");
-/*
-	Eventually by HTML5 UP
-	html5up.net | @ajlkn
-	Free for personal and commercial use under the CCA 3.0 license (html5up.net/license)
-*/
+
 html, body, div, span, applet, object,
 iframe, h1, h2, h3, h4, h5, h6, p, blockquote,
 pre, a, abbr, acronym, address, big, cite,
@@ -60,7 +56,6 @@ input, select, textarea {
   -ms-appearance: none;
   appearance: none; }
 
-/* Basic */
 @-ms-viewport {
   width: device-width; }
 
@@ -123,7 +118,6 @@ body {
     body {
       padding: 5em 1.25em 1.25em 1.25em; } }
 
-/* BG */
 #bg {
   -moz-transition: opacity 2s ease-in-out;
   -webkit-transition: opacity 2s ease-in-out;
@@ -350,7 +344,6 @@ hr {
   hr.major {
     margin: 3em 0; }
 
-/* Section/Article */
 section.special, article.special {
   text-align: center; }
 
@@ -388,7 +381,6 @@ header h6 + p {
   header br {
     display: none; } }
 
-/* Icon */
 .icon {
   text-decoration: none;
   border-bottom: none;
@@ -428,7 +420,6 @@ ul {
   ul li {
     padding-left: 0.5em; }
 
-/* Icons */
 ul.icons {
   cursor: default;
   list-style: none;
@@ -443,7 +434,6 @@ ul.icons {
     ul.icons li a {
       color: inherit; }
 
-/* Form */
 form {
   margin: 0 0 2em 0; }
   form .message {
@@ -719,7 +709,6 @@ input[type="radio"] + label:before {
   color: rgba(255, 255, 255, 0.5) !important;
   opacity: 1.0; }
 
-/* Button */
 input[type="submit"],
 input[type="reset"],
 input[type="button"],
@@ -776,7 +765,6 @@ button,
     .button {
       padding: 0; } }
 
-/* Header */
 #header h1 {
   font-size: 3.25em;
   margin: 0 0 0.55em 0; }
@@ -798,7 +786,6 @@ button,
   #header {
     margin: 0 0 1em 0; } }
 
-/* Signup Form */
 #signup-form {
   display: -moz-flex;
   display: -webkit-flex;
@@ -834,7 +821,6 @@ button,
         margin-top: 0;
         position: absolute; } }
 
-/* Footer */
 #footer {
   -moz-transition: opacity 0.5s ease-in-out;
   -webkit-transition: opacity 0.5s ease-in-out;
